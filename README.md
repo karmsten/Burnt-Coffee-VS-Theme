@@ -9,3 +9,12 @@ Easy on eyes yet beautiful theme for VS Code / Cursor IDE
 
 # NOTE the settings.json file should still be named textMateRules and workbench.colorCustomizations
 # If you don't have a "textMateRules" or "workbench.colorCustomizations" you can create them
+
+```
+    __ __ ___    ____  __  _____________________   __
+   / //_//   |  / __ \/  |/  / ___/_  __/ ____/ | / /
+  / ,<  / /| | / /_/ / /|_/ /\__ \ / / / __/ /  |/ / 
+ / /| |/ ___ |/ _, _/ /  / /___/ // / / /___/ /|  /  
+/_/ |_/_/  |_/_/ |_/_/  /_//____//_/ /_____/_/ |_/   
+
+```
